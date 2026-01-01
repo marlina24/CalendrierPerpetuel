@@ -1,6 +1,6 @@
 Calendrier Perpétuel
 
-- Description
+
 Ce projet est une application console développée en **C#**.  
 Elle permet de travailler avec les dates et de calculer des informations
 comme le jour de la semaine pour une date donnée.
